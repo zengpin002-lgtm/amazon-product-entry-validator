@@ -1,0 +1,6 @@
+interface:
+  display_name: "Amazon产品入场验证 Lite"
+  short_description: "验证Amazon产品市场进入、竞争结构与基础盈利风险"
+  default_prompt: "Use $amazon-product-entry-validator to validate whether this Amazon product deserves deeper research."
+policy:
+  allow_implicit_invocation: true

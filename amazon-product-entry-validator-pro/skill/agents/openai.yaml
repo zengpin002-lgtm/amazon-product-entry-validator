@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon产品入场验证 Pro"
+  short_description: "深度验证Amazon产品入场、利润、库存与采购风险"
+  default_prompt: "Use $amazon-product-entry-validator-pro to produce a purchase-grade Amazon product entry decision."
